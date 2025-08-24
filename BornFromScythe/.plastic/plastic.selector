@@ -1,4 +1,0 @@
-repository "BornFromScythe@GnosticGames@cloud"
-  path "/"
-    br "/main"
-    co "/main"
